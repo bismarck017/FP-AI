@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fordham Prep AI Club</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1dc9f8;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #1dc9f8;
+            font-size: 18px;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #1dc9f8;
+        }
+
+        ul {
+            list-style-type: square;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #1dc9f8;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Fordham Prep AI Club</h1>
+        <p>Future of Business, future of education, future of the world</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+    </nav>
+
+    <section>
+        <h2>Our Mission</h2>
+        <ul>
+            <li>Educate students of the prep regarding artifical inteligence</li>
+            <li>Provide students with AI services for the education safley</li>
+            <li>Teaches students about the ethical impliucations of AI and theaches how to use is resonsibly</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Flint AI</h2>
+        <ul>
+            <li>Flint AI is a</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Responsible use of AI</h2>
+        <ul>
+            <li>AI is a great tool for education and studying</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Follow us</p>
+        <p>Instagram</p>
+        <p>Schoology</p>
+    </footer>
+
+</body>
+</html>
