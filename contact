@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fordham Prep AI Club Contact page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1dc9f8;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #1dc9f8;
+            font-size: 18px;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            text-align: center;
+            padding: 20px;
+            text-align: center;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #1dc9f8;
+        }
+
+        ul {
+            list-style-type: square;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #1dc9f8;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Fordham Prep AI Club</h1>
+        <p>Future of Business, future of education, future of the world</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+    </nav>
+
+    <section>
+        <h2>Contact us!</h2>
+        <ul>
+            <form action="/submit-form" method="POST">
+                <p>Full Name</p>
+                <input type="text" id="name" name="name" required><br><br>
+            
+                <p>Email Address</p>
+                <input type="email" id="e    mail" name="email" required><br><br>
+            
+                <p>Subject</p>
+                <input type="text" id="subject" name="subject"><br><br>
+            
+                <p>Message</p>
+                <textarea id="message" name="message" rows="5" cols="30" required></textarea><br><br>
+            
+                <button type="submit">Send Message</button>
+              </form>
+            </section>
+            <li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Follow us</p>
+        <p>Instagram - @fordhamprepai</p>
+        <p>Schoology - KXHX-J5PZ-29SQN</p>
+    </footer>
