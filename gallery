@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fordham Prep AI Club</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1dc9f8;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #1dc9f8;
+            font-size: 18px;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #1dc9f8;
+        }
+
+        ul {
+            list-style-type: square;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #1dc9f8;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Fordham Prep AI Club</h1>
+        <p>Future of Business, future of education, future of the world</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+    </nav>
+
+     <Section>
+        <h2>Gallery</h2>
+        <ul>
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+            <img src="image-url.jpg" alt="Description of the image" width="500" height="300">
+        </ul>
+    </section>
+
+    <footer>
+        <p>Follow us</p>
+        <p>Instagram</p>
+        <p>Schoology</p>
+    </footer>
+
+</body>
+</html>
